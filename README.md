@@ -1,4 +1,4 @@
-# What Are cursor AI rules
+# What Are Cursor AI rules
 Cursor Rules are configuration files that define how AI should interact
 with your codebase. They provide context-aware assistance by setting
 guidelines, constraints, and behavioral patterns for AI interactions.
