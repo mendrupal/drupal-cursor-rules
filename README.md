@@ -12,7 +12,9 @@ areas, such as: code-generation, prd, assistance-style, rules for
 
 # How to use this Drupal Cursor AI rules
 1- Create the hidden directory .cursor/rules if it doesn't exist
+
 2- Add the drupal-cursor-rules.mdc file to that directory
+
 3- You can check that rules are captured by Cursor AI by going to 
 Cursor -> Settings -> Cusor Settings -> Rules
-There you will see the riles where added to the project rules.
+There you will see the rules where added to the project rules.
